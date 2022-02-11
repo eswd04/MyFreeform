@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My FreeForm</string>
+    <string name="start_service">启动服务</string>
+
+</resources>

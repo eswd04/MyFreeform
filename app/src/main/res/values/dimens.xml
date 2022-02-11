@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="w_width">300dp</dimen>
+    <dimen name="w_height">500dp</dimen>
+    <dimen name="bar_height">20dp</dimen>
+    <dimen name="w_default_width">1440dp</dimen>
+    <dimen name="w_default_height">2880dp</dimen>
+    <dimen name="collpandWidth">70dp</dimen>
+</resources>
